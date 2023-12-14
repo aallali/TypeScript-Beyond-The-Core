@@ -7,7 +7,7 @@
 ----
 ----
 
-### Context
+## Context
 This comprehensive guide aims to empower developers, including myself, in mastering both data structures/algorithms and Typescript.
 
 The motivation behind creating this book is to facilitate a deep dive into the realms of Data Structures, Algorithms, and Advanced Backend Engineering.
@@ -21,15 +21,16 @@ The book will follow this schema:
 1. ressources
 
 **Note:** `The development of this book will be divided into stages (Stage 1, Stage 2, ...).`
+
 **Note:** `Stage 1 will focus on fundamentals and data structures.`
-### Contribution
+## Contribution
 During this stage, contributions may involve:
 
 Enhancing the syllabus
 Correcting mistakes in: [lecture content, exercises, resources, examples]
 Proposing additional exercises and examples to augment the reader's understanding.
 
-### Sylabus #stage1
+## Sylabus #stage1
 
 1. **Foundations**
     1. TypeScript Basics
