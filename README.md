@@ -26,9 +26,9 @@ The book will follow this schema:
 ## Contribution
 During this stage, contributions may involve:
 
-Enhancing the syllabus
-Correcting mistakes in: [lecture content, exercises, resources, examples]
-Proposing additional exercises and examples to augment the reader's understanding.
+- Enhancing the syllabus
+- Correcting mistakes in: [lecture content, exercises, resources, examples]
+- Proposing additional exercises and examples to augment the reader's understanding.
 
 ## Sylabus #stage1
 
@@ -37,24 +37,24 @@ Proposing additional exercises and examples to augment the reader's understandin
     1. Learn TypeScript syntax and features.
     1. Explore TypeScript's static typing and how it differs from JavaScript.
 1. **Data Structures and Algorithms** 
-    1. Data Structures
+    1. **Data Structures**
         1. Arrays, Linked Lists, Stacks, and Queues.
             1. Array
             1. Linked Lists:
             1. Stacks:
             1. Queues:
-        1. Trees (Binary Trees, Binary Search Trees).
+        1. **Trees (Binary Trees, Binary Search Trees).**
 
-        1. Hash Tables, Sets, and Maps.
+        1. **Hash Tables, Sets, and Maps.**
             1. Hash Tables:
             1. Sets and Maps
-        1. Graphs and their representations.
+        1. **Graphs and their representations.**
 1. **Algorithms**
-    1. Sorting Algorithms
+    1. **Sorting Algorithms**
         1. Bubble Sort
         1. Quick Sort
         1. Merge Sort
-    1. Searching Algorithms
+    1. **Searching Algorithms**
         1. Linear Search
         1. Binary Search
         1. Jump Search
@@ -65,16 +65,16 @@ Proposing additional exercises and examples to augment the reader's understandin
         1. Hashing (Hash Table-based Search)
         1. Binary Search Tree (BST) Search
         1. Linear Probing
-    1. Recursion and Backtracking
+    1. **Recursion and Backtracking**
         1. Recursion.
         1. Backtracking
 
-    1. Dynamic Programming
+    1. **Dynamic Programming**
         1. Grasp the concept of dynamic programming.
             1. Understand the principles of overlapping subproblems and optimal substructure.
             1. Implement dynamic programming solutions in TypeScript.
 
-    1. Graph Algorithms
+    1. **Graph Algorithms**
         1. Depth-First Search (DFS)
         1. Breadth-First Search (BFS)
         1. Dijkstra's Algorithm
@@ -86,15 +86,15 @@ Proposing additional exercises and examples to augment the reader's understandin
         1. Topological Sorting
         1. Johnson's Algorithm
 
-    1. Time Complexity and Big O Notation
+    1. **Time Complexity and Big O Notation**
         1. Analyze the time complexity of algorithms.
         1. Understand Big O notation and its implications.
 
 1. **Advanced TypeScript** 
 
-    1. Generics and Advanced Types
+    1. **Generics and Advanced Types**
         1. Deepen your understanding of TypeScript generics.
         1. Explore advanced type features.
 
-    1. Decorators and Metadata
+    1. **Decorators and Metadata**
         1. Learn how to use decorators for metaprogramming in TypeScript.
