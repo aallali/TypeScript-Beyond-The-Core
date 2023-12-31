@@ -16,7 +16,7 @@ The structured roadmap ensures a thorough exploration of each stage in the proce
 
 **Note:** `The development of this book will be divided into stages (Edition 1, Edition 2, ...).`
 
-**Note:** `Edition 1 will focus on fundamentals of the language and data structures/Algorithms.`
+**Note:** `Edition 1 will focus on the fundamentals of the language and data structures/Algorithms.`
 
 ## Contributions
 During this stage, contributions may involve:
@@ -27,10 +27,9 @@ During this stage, contributions may involve:
 ## Syllabus / Edition1
 
 1. **Part 1: Foundations**
-    - Introduction [:hourglass_flowing_sand:]
-    - TypeScript Basics
+    - [x] Introduction 
+    - [ ] TypeScript Basics :hourglass_flowing_sand:
 1. **Part 2: Data Structures**
-
     - Basic Data Structures
         - `Arrays`
         - `Linked Lists`
@@ -49,11 +48,9 @@ During this stage, contributions may involve:
     - Recursion and Backtracking
     - Dynamic Programming
     - Graph Algorithms
-
 1. **Part 4: Advanced TypeScript**
     - Generics and Advanced Types
     - Decorators and Metadata
-
 
 [c]: :white_check_mark:
 [s]: :hourglass_flowing_sand:
